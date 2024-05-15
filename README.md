@@ -4,7 +4,7 @@
 - 😄 Portfolio
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://64.media.tumblr.com/f86b0f2fae3244ec72440637707bfa47/ea6952d55f7fc5b4-98/s400x600/8f0e03a2691d72b49332183e654b6bae904c69e7.gif" width="300" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://64.media.tumblr.com/f86b0f2fae3244ec72440637707bfa47/ea6952d55f7fc5b4-98/s400x600/8f0e03a2691d72b49332183e654b6bae904c69e7.gif" width="300" height="200" /></a>
 
 
 <!--
